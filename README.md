@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learn more. Build More.<br>Javascript.React.NextJS.MERN.<br>Code used to be a job until it became just a hobby.<br>Looking to collaborate on Full-Stack Projects.<br>A Product Manager who codes. Who would have thought?
+Learn more. Build More.<br>Javascript.React.NextJS.MERN.<br>Code used to be a job until it became a passion.<br>Looking to collaborate on Full-Stack Projects.<br>A Product Manager who codes. Who would have thought?
 
 
 ## 🌐 Socials:
