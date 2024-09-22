@@ -1,4 +1,4 @@
-# 💫 Product Manager who codes.
+# 💫 Code is Life.
 Learn more. Build More.<br>Javascript.React.NextJS.MERN.<br>Code used to be a job until it became a passion.<br>Looking to collaborate on Full-Stack Projects.<br>
 
 
